@@ -1,5 +1,5 @@
 {
-  "name": "multilingual.js",
+  "name": "multilingual",
   "version": "0.0.1",
   "description": "Micro screen typography for CJK typesetting",
   "main": "index.js",
